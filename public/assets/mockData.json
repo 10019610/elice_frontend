@@ -1,0 +1,154 @@
+{
+  "username": "AdminHeesan",
+  "itinerary_list": [
+    {
+      "plan_id": 1,
+      "start_date": "2023-12-01",
+      "end_date": "2023-12-03",
+      "destination": "테스트한국",
+      "dates": [
+        {
+          "id": 1,
+          "date": "2023-12-01",
+          "locations": [
+            {
+              "location": "광화문",
+              "order": 1,
+              "lat": 37.575992,
+              "lng": 126.976936
+            },
+            {
+              "location": "명동",
+              "order": 2,
+              "lat": 37.563646,
+              "lng": 126.98559
+            },
+            {
+              "location": "경복궁",
+              "order": 3,
+              "lat": 37.579617,
+              "lng": 126.977041
+            },
+            {
+              "location": "남산 타워",
+              "order": 4,
+              "lat": 37.551487,
+              "lng": 126.988229
+            },
+            {
+              "location": "인사동",
+              "order": 5,
+              "lat": 37.570211,
+              "lng": 126.984959
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "date": "2023-12-02",
+          "locations": [
+            {
+              "location": "청계천",
+              "order": 1,
+              "lat": 37.569651,
+              "lng": 127.022583
+            },
+            {
+              "location": "홍대 (홍익대학교)",
+              "order": 2,
+              "lat": 37.557211,
+              "lng": 126.922029
+            },
+            {
+              "location": "이태원",
+              "order": 3,
+              "lat": 37.534684,
+              "lng": 126.994545
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "date": "2023-12-03",
+          "locations": [
+            {
+              "location": "종로",
+              "order": 1,
+              "lat": 37.57295,
+              "lng": 126.979357
+            },
+            {
+              "location": "대학로",
+              "order": 2,
+              "lat": 37.584019,
+              "lng": 127.003828
+            },
+            {
+              "location": "동대문",
+              "order": 3,
+              "lat": 37.57164,
+              "lng": 127.00965
+            }
+          ]
+        }
+      ]
+    },
+
+    {
+      "plan_id": 2,
+      "start_date": "2023-12-01",
+      "end_date": "2023-12-02",
+      "destination": "테스트한국",
+      "dates": [
+        {
+          "id": 1,
+          "date": "2023-12-01",
+          "locations": [
+            {
+              "location": "테스트서울",
+              "order": 1,
+              "lat": 37.5665,
+              "lng": 126.978
+            },
+            {
+              "location": "테스트대구",
+              "order": 2,
+              "lat": 35.8714,
+              "lng": 128.6014
+            },
+            {
+              "location": "테스트울산",
+              "order": 3,
+              "lat": 35.5383,
+              "lng": 129.3114
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "date": "2023-12-02",
+          "locations": [
+            {
+              "location": "테스트서울",
+              "order": 1,
+              "lat": 37.5665,
+              "lng": 126.978
+            },
+            {
+              "location": "테스트대구",
+              "order": 2,
+              "lat": 35.8714,
+              "lng": 128.6014
+            },
+            {
+              "location": "테스트울산",
+              "order": 3,
+              "lat": 35.5383,
+              "lng": 129.3114
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
